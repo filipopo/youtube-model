@@ -1,11 +1,11 @@
 <RCC>
   <qresource prefix="slike">
-    <file>category.jpg</file>
-    <file>comments.jpg</file>
-    <file>corelation.jpg</file>
-    <file>day.jpg</file>
-    <file>liked.jpg</file>
-    <file>re_watches.jpg</file>
-    <file>tags.jpg</file>
+    <file>images/category.jpg</file>
+    <file>images/comments.jpg</file>
+    <file>images/corelation.jpg</file>
+    <file>images/day.jpg</file>
+    <file>images/liked.jpg</file>
+    <file>images/re_watches.jpg</file>
+    <file>images/tags.jpg</file>
   </qresource>
 </RCC>

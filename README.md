@@ -5,3 +5,5 @@ python izvestaj.py
 
 resursi se kompaliraju komandom
 pyrcc5 resursi.qrc -o resursi_rc.py
+
+you can install the requirements with `pip install -r requirements.txt`

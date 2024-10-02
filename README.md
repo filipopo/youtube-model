@@ -2,7 +2,7 @@
 
 This Python project contains a youtube.ipynb Jupyter notebook in which videos from the youtube trending 2017 dataset were analyzed with pandas and visualisations were made using matplotlib
 
-![image](https://github.com/user-attachments/assets/ff5a3d3c-4b2e-426e-8ede-1f342208596b)
+![image](https://github.com/user-attachments/assets/32eba06c-c1f7-48f4-88d1-818cb6c926cc)
 
 In the last section of the notebook a one class classifier ML model was made in Scikit-learn which predicts will a new video be trending
 

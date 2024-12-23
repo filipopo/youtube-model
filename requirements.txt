@@ -1,6 +1,6 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-textblob
-PyQt5
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+scikit-learn==1.6.0
+textblob==0.18.0
+PyQt5==5.15.11

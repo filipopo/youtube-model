@@ -12,6 +12,8 @@ In the report folder, there's a graphical report of the findings in the Serbian 
 
 You can install the requirements for the entire project with `pip install -r requirements.txt`
 
+To run the Jupyter environment you can do `jupyter lab`
+
 Then you can view the PyQT5 report
 
 `python izvestaj.py`
